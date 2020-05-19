@@ -1,0 +1,23 @@
+﻿{
+  "InstalledPluginNames": [
+    "DiscountRequirement.MustBeAssignedToCustomerRole",
+    "Payments.Manual",
+    "Payments.PayPalStandard",
+    "Tax.FixedOrByCountryStateZip",
+    "Shipping.UPS",
+    "Widgets.NivoSlider",
+    "Payments.CheckMoneyOrder",
+    "Tax.Avalara",
+    "Shipping.FixedByWeightByTotal",
+    "Widgets.GoogleAnalytics",
+    "Payments.Square",
+    "CurrencyExchange.ECB",
+    "Payments.Qualpay",
+    "Pickup.PickupInStore",
+    "Misc.SendinBlue",
+    "ExternalAuth.Facebook"
+  ],
+  "PluginNamesToUninstall": [],
+  "PluginNamesToDelete": [],
+  "PluginNamesToInstall": []
+}

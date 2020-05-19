@@ -1,0 +1,5 @@
+﻿{
+  "DataProvider": "sqlserver",
+  "DataConnectionString": "Data Source=localmac;Initial Catalog=nopCommerce-demo;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=j1$kat12",
+  "RawDataSettings": {}
+}
